@@ -18,9 +18,28 @@ body {
     border: none;
     border-radius: 16px;
     position: absolute;
-    top: -15px;
+    top: -15;
     left: -15px;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+.div3 {
+    background-color: black;
+    color: white;
+   
+     border: none;
+    font-family: Arial;
+    font-size: 18px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+  
+  
+   
 }
